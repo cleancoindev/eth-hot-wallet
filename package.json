@@ -220,7 +220,7 @@
     "babel-polyfill": "^6.26.0",
     "chalk": "^3.0.0",
     "compression": "^1.7.4",
-    "cross-env": "^7.0.0",
+    "cross-env": "^7.0.3",
     "eth-lightwallet": "^3.0.1",
     "express": "^4.17.1",
     "fontfaceobserver": "^2.1.0",
