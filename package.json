@@ -222,7 +222,7 @@
     "compression": "^1.7.4",
     "cross-env": "^7.0.0",
     "eth-lightwallet": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fontfaceobserver": "^2.1.0",
     "history": "^4.10.1",
     "hoist-non-react-statics": "^2.1.1",
